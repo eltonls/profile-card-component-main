@@ -26,8 +26,8 @@ Although the project is small, it was a little bit harder than I expected, speci
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/plain-and-simple-E9bhP7eXb)
+- Live Site URL: [Add live site URL here](https://eltonnrs.github.io/profile-card-component-main/)
 
 ## My process
 
